@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">WZB</string>
+
+    <string name="pay_money">￥%1$.2f</string>
 </resources>
